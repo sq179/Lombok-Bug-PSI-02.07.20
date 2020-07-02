@@ -3,7 +3,7 @@
 ### How to reproduce:
 
 Open the project source code in the IDEA-EAP 2020.2, then uncomment 
-line above lombok ```com.sq179.reproduce.SampleDataClass``` and you get something like:
+line above lombok in ```com.sq179.reproduce.SampleDataClass``` and you get something like:
 
 ```
 com.intellij.psi.PsiInvalidElementAccessException: Element: class de.plushnikov.intellij.plugin.psi.LombokLightMethodBuilder #JAVA  because: psi is outdated
